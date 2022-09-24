@@ -1,0 +1,32 @@
+body {
+    margin: auto;
+}
+
+
+
+.container-general {
+    width: 100vw;
+    height: 100vh;
+    border: blue 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-desc {
+    width: 100vw;
+    height: 100vh;
+    border: blue 1px solid;
+}
+
+.container-measures {
+    width: 100vw;
+    height: 100vh;
+    border: blue 1px solid;
+}
+
+.container-power {
+    width: 100vw;
+    height: 100vh;
+    border: blue 1px solid;
+}
